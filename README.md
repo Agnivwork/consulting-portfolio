@@ -1,4 +1,4 @@
-# cProffesional Portfolio
+# Proffesional Portfolio
 import React from 'react';
 
 export default function Portfolio() {
